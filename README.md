@@ -37,16 +37,6 @@ Three-layer detection engine built using NLP + Computer Vision + Business Rules.
 
 ---
 
-### 3. **AI-Powered Mall Shop Onboarding System**
-Automated seller onboarding using multi-signal analysis.  
-- Entity extraction from unstructured text.  
-- Trademark/IP match scoring.  
-- Image similarity for branded product verification.  
-- Outputs “Onboard / Needs Review / Reject” with full audit trail.  
-- Accelerated processing and improved regulatory control.
-
----
-
 ## 📊 Business Intelligence & Data Analytics Experience
 
 During my 2 years at Shopee, I worked as both:
