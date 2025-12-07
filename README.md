@@ -104,9 +104,9 @@ My BI foundation enabled me to transition naturally into **AI project leadership
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** [Your LinkedIn URL]  
-- **Portfolio Website:** https://yourusername.github.io  
-- **Email:** your.email@example.com  
+- **LinkedIn:** www.linkedin.com/in/phumipat-numkham-709961265  
+- **Portfolio Website:** https://phumipat-numkham.github.io  
+- **Email:** phumipat.numkham@gmail.com  
 
 ---
 ### Thank you for visiting my portfolio!
