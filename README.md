@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Phumipat Numkham
 Project Manager | Business Intelligence | AI Automation | Data Analytics
 
 I am a data-driven project owner with strong experience in **AI workflow automation**, **business intelligence**, and **operational risk reduction** in fast-paced e-commerce environments. At Shopee, I led high-impact initiatives that transformed manual processes into intelligent, scalable systems—improving productivity, reducing legal exposure, and elevating decision quality across teams.
