@@ -9,7 +9,7 @@ Shopee Thailand | AI Project Owner | Data-Driven Problem Solver
 
 I am a **project-focused data and AI professional** with 2+ years of experience at **Shopee Thailand**, specializing in **AI-driven process automation, business intelligence, and operational risk reduction**.
 
-I work at the intersection of **data, AI, and business operations**, owning projects end-to-end — from problem definition and stakeholder alignment to AI design, deployment, and measurable impact.
+I work at the intersection of **data, AI, and business operations**, owning projects end-to-end from problem definition and stakeholder alignment to AI design, deployment, and measurable impact.
 
 > **Work motto:** *Do your best and trust the process.*
 
