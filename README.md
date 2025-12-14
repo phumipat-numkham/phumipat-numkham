@@ -1,103 +1,75 @@
-# 👋 Hi, I'm Phumipat Numkham
-Project Manager | Business Intelligence | AI Automation | Data Analytics
+# 👋 Hi, I’m Phumipat Numkham
 
-I am a data-driven project owner with strong experience in **AI workflow automation**, **business intelligence**, and **operational risk reduction** in fast-paced e-commerce environments. At Shopee, I led high-impact initiatives that transformed manual processes into intelligent, scalable systems—improving productivity, reducing legal exposure, and elevating decision quality across teams.
-
----
-
-## 🏆 Highlight Achievements
-
-### 🥇 Shopee Outstanding Project Awards 2025 – Winner
-**Project Risk Guardian: GPT AI Intellectual Property Detection**  
-- Reduced litigation exposure by *USD 950M* across multiple brands.  
-- Mitigated up to *USD 1M in fines per brand* through AI-powered detection.  
-- Deployed end-to-end text + image models for automated IPR risk screening.
-
-### ⭐ The 2025 Department Value Star Award
-Recognized for exceptional performance, initiative ownership, and consistently delivering results beyond expectations.
+**Project Management · Business Intelligence · AI Automation**  
+Shopee Thailand | AI Project Owner | Data-Driven Problem Solver
 
 ---
 
-## 🚀 Key Projects
+## 🚀 About Me
 
-### 1. **GPT-Driven IPR AI Classification System**
-Automated the identification and classification of 200+ brand-owner complaints daily using NLP and workflow automation.  
-- Extracts signal keywords (fake, counterfeit, copy).  
-- Automatically maps cases into 4 IP types with >99% accuracy.  
-- Eliminates repetitive manual work and reduces misclassification risk.
+I am a **project-focused data and AI professional** with 2+ years of experience at **Shopee Thailand**, specializing in **AI-driven process automation, business intelligence, and operational risk reduction**.
 
----
+I work at the intersection of **data, AI, and business operations**, owning projects end-to-end — from problem definition and stakeholder alignment to AI design, deployment, and measurable impact.
 
-### 2. **AI-Driven Counterfeit Item Detection System**
-Three-layer detection engine built using NLP + Computer Vision + Business Rules.  
-- Flags brand names from noisy text patterns.  
-- Detects unauthorized logos in item images.  
-- Validates against price floor logic (50% threshold).  
-- Replaced labor-intensive manual inspections.
+> **Work motto:** *Do your best and trust the process.*
 
 ---
 
-## 📊 Business Intelligence & Data Analytics Experience
+## 🧠 What I Do Best
 
-During my 2 years at Shopee, I worked as both:
-
-- **Business Intelligence Analyst**  
-- **Associate Project Owner for AI & Listing Operations**
-
-I specialized in:
-
-- Advanced SQL analytics for operational insights  
-- KPI and risk modelling  
-- Forecasting and workload prediction  
-- Cross-team data problem solving  
-- Supporting strategic decisions with data-driven recommendations  
-
-My BI foundation enabled me to transition naturally into **AI project leadership**.
+- Lead **AI automation projects** that fully replace manual workflows  
+- Translate **complex business and compliance problems** into scalable AI solutions  
+- Combine **NLP, Computer Vision, and business logic** for real-world use cases  
+- Deliver **measurable impact** in productivity, cost, and quality  
+- Communicate clearly across **Legal, Ops, Product, and Tech teams**
 
 ---
 
-## 🧠 Skills & Expertise
+## 🤖 Selected AI Projects
 
-### **Data & Analytics**
-- SQL (BigQuery), R Programming, Excel, Power BI  
-- Statistical modeling, A/B testing, segmentation  
-- Data cleaning, feature extraction, automation workflows  
+- **IPR AI Classification System (n8n + NLP)**  
+  100% replacement of agent IP classification, **97% accuracy**, eliminated **~4 hrs/day** of manual work
 
-### **AI & Automation**
-- n8n automation  
-- NLP (keyword extraction, text classification)  
-- Image processing / computer vision (logo detection, similarity)  
-- Prompt engineering & accuracy optimization  
-- End-to-end AI solution ownership  
+- **AI-Driven Counterfeit Detection (NLP + CV + Logic)**  
+  Automated brand text detection, logo recognition, and price anomaly checks (**≥50% below benchmark**)
 
-### **Project Management**
-- Requirement gathering & scoping  
-- Cross-team collaboration (Legal, IPR, Product, OPS)  
-- Roadmap planning, execution, and delivery  
-- Risk assessment & mitigation  
-- Process design and optimization  
+- **AI-Powered Shopee Mall Onboarding**  
+  Automated document validation and trademark matching; onboarding time reduced from **1 week to 1 day**
 
-### **Soft Skills**
-- Logical & structured thinking  
-- Stakeholder communication  
-- Initiative ownership  
-- Fast learning & adaptability  
+👉 Full project details: **https://phumipat-numkham.github.io**
 
 ---
 
-## 🎯 What I’m Focusing On Next
-- AI product development  
-- Advanced automation for operations  
-- Data-driven project management  
-- Building personal portfolio & technical showcase  
+## 🏆 Recognition
+
+- 🥇 **Shopee Outstanding Project Awards 2025 – Winner**  
+  *Project Risk Guardian: GPT AI Intellectual Property Detection*  
+  → Reduced **~USD 950M** in legal exposure
+
+- ⭐ **Department Value Star Award 2025**  
+  Recognized for ownership, performance, and business impact
+
+- 🌟 **Shopee Employer Branding Feature – Shopee Careers TH**  
+  Selected to share work journey, best practices, and work motto
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn:** www.linkedin.com/in/phumipat-numkham-709961265  
-- **Portfolio Website:** https://phumipat-numkham.github.io  
-- **Email:** phumipat.numkham@gmail.com
+## 🧰 Skills Snapshot
+
+**Data & BI:** SQL (BigQuery), R, Power BI, KPI modeling, forecasting  
+**AI & Automation:** n8n, NLP, Computer Vision, prompt engineering  
+**Project Management:** End-to-end ownership, stakeholder alignment, risk mitigation  
+**Business:** MBA (MIS) – Finance, Accounting, Marketing, Operations, HR, Analytics  
 
 ---
-### Thank you for visiting my portfolio!
-Feel free to explore my projects or reach out to collaborate.
+
+## 📫 Let’s Connect
+
+- 🌐 Portfolio: https://phumipat-numkham.github.io  
+- 💼 LinkedIn: https://www.linkedin.com/in/phumipat-numkham-709961265  
+- 📄 Resume: https://phumipat-numkham.github.io/RESUME.pdf  
+- 📧 Email: phumipat.numkham@gmail.com  
+
+---
+
+⭐ *If you’re interested in AI-powered operations, data-driven project management, or scalable automation — feel free to reach out.*
