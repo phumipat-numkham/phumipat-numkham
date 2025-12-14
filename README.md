@@ -67,7 +67,7 @@ I work at the intersection of **data, AI, and business operations**, owning proj
 
 - 🌐 Portfolio: https://phumipat-numkham.github.io  
 - 💼 LinkedIn: https://www.linkedin.com/in/phumipat-numkham-709961265  
-- 📄 Resume: https://phumipat-numkham.github.io/RESUME.pdf  
+- 📄 Resume: https://phumipat-numkham.github.io/RESUME (2).pdf  
 - 📧 Email: phumipat.numkham@gmail.com  
 
 ---
